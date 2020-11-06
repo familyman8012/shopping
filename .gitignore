@@ -1,8 +1,7 @@
 /node_modules
 /build
-
-dev.js
-
+/uploads
+/uploadtest
 
 
 .DS_Store
